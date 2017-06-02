@@ -1,0 +1,46 @@
+/* Palette (http://paletton.com/palette.php?uid=54A0u0klDlDdfUEl7EBl7af5-2f) */
+
+.color-primary-0 { color: #522B74 }	/* Main Primary color */
+.color-primary-1 { color: #C493EE }
+.color-primary-2 { color: #8D4CC5 }
+.color-primary-3 { color: #271537 }
+.color-primary-4 { color: #0B0A0C }
+
+.color-secondary-1-0 { color: #812A69 }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #F28ED7 }
+.color-secondary-1-2 { color: #D247AC }
+.color-secondary-1-3 { color: #3D1532 }
+.color-secondary-1-4 { color: #0D0B0D }
+
+.color-secondary-2-0 { color: #3B3177 }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #A599EF }
+.color-secondary-2-2 { color: #6555C8 }
+.color-secondary-2-3 { color: #1D1839 }
+.color-secondary-2-4 { color: #0B0B0C }
+
+
+body {
+  background-color: #271537;
+  color: #C493EE;
+}
+
+#favs {
+  background-color: #3B3177;
+  color: #C493EE;
+}
+
+.ice-cream {
+  color: #F28ED7;
+}
+
+h1 {
+ color: #FFFFFF;  
+}
+
+h2, h3, h4, h5, h6 {
+  color: #D247AC;
+}
+
+a {
+  color: #8D4CC5;
+}
